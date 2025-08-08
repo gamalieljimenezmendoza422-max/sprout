@@ -1,0 +1,9 @@
+# config/settings.yaml
+
+modo_simulacion: true
+puerto_serial: "/dev/ttyUSB0"
+baudrate: 9600
+
+umbral_obstaculo_cm: 20
+log_path: "logs/voice.log"
+comando_path: "voz/comandos.txt"
